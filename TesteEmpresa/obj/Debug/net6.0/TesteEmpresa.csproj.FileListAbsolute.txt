@@ -1,0 +1,15 @@
+C:\Users\danie\Desktop\TesteEmpresa\TesteEmpresa\bin\Debug\net6.0\TesteEmpresa.exe
+C:\Users\danie\Desktop\TesteEmpresa\TesteEmpresa\bin\Debug\net6.0\TesteEmpresa.deps.json
+C:\Users\danie\Desktop\TesteEmpresa\TesteEmpresa\bin\Debug\net6.0\TesteEmpresa.runtimeconfig.json
+C:\Users\danie\Desktop\TesteEmpresa\TesteEmpresa\bin\Debug\net6.0\TesteEmpresa.dll
+C:\Users\danie\Desktop\TesteEmpresa\TesteEmpresa\bin\Debug\net6.0\TesteEmpresa.pdb
+C:\Users\danie\Desktop\TesteEmpresa\TesteEmpresa\obj\Debug\net6.0\TesteEmpresa.csproj.AssemblyReference.cache
+C:\Users\danie\Desktop\TesteEmpresa\TesteEmpresa\obj\Debug\net6.0\TesteEmpresa.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\danie\Desktop\TesteEmpresa\TesteEmpresa\obj\Debug\net6.0\TesteEmpresa.AssemblyInfoInputs.cache
+C:\Users\danie\Desktop\TesteEmpresa\TesteEmpresa\obj\Debug\net6.0\TesteEmpresa.AssemblyInfo.cs
+C:\Users\danie\Desktop\TesteEmpresa\TesteEmpresa\obj\Debug\net6.0\TesteEmpresa.csproj.CoreCompileInputs.cache
+C:\Users\danie\Desktop\TesteEmpresa\TesteEmpresa\obj\Debug\net6.0\TesteEmpresa.dll
+C:\Users\danie\Desktop\TesteEmpresa\TesteEmpresa\obj\Debug\net6.0\refint\TesteEmpresa.dll
+C:\Users\danie\Desktop\TesteEmpresa\TesteEmpresa\obj\Debug\net6.0\TesteEmpresa.pdb
+C:\Users\danie\Desktop\TesteEmpresa\TesteEmpresa\obj\Debug\net6.0\TesteEmpresa.genruntimeconfig.cache
+C:\Users\danie\Desktop\TesteEmpresa\TesteEmpresa\obj\Debug\net6.0\ref\TesteEmpresa.dll
